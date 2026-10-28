@@ -43,6 +43,12 @@ Sole frontend engineer for the National Center for Palms and Dates enterprise Re
 
 Owned the migration of core fintech platform modules from Vue 2 to Vue 3. Refactored the admin dashboard into reusable components, improved state management patterns, and implemented two-factor authentication, idle session timeout, and one-time payments.
 
+### Selfa (سلفه) · Front-End Developer
+
+**Jan 2020–May 2022**
+
+Developed customer-facing features for a micro-loan fintech platform using Vue 2, Laravel Blade, and JavaScript. Built two-factor authentication, session timeout, and input validation workflows; created reusable Vue components, refactored legacy modules, and integrated REST APIs.
+
 ## Building · Tagerly
 
 **Founder · Pre-launch · Jun 2026–present**
